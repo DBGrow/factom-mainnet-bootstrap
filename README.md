@@ -5,11 +5,15 @@ Useful for anyone looking to deploy a node on the mainnet without needing to wai
 
 *Use at your own risk!!!*
 
+### Instructions
+
+Each zip contains the `./factom/m2/main-database` folder. You may extract this into the appropriate docker or Factom database directory
+
 ### Versions
 
-| Date(block height) | Link                                                         | MD5 Checksum                               |
+| Date(Block height) | Link(Size)                                                   | MD5 Checksum                               |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------ |
-| 4/31/2018(138835)  | [M2 Database](https://s3.amazonaws.com/factom.dbgrow/m2.zip)(11.6GB) | `cbacf1892af9ed072d62e61c44e63ffd  m2.zip` |
+| 4/31/2018 (138835) | [M2 Database](https://s3.amazonaws.com/factom.dbgrow/m2.zip)(11.6GB) | `cbacf1892af9ed072d62e61c44e63ffd  m2.zip` |
 |                    |                                                              |                                            |
 |                    |                                                              |                                            |
 
